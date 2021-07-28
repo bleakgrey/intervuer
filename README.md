@@ -1,2 +1,2 @@
-# intervuer
-[WIP] Elegant, clean, and data-driven resume template that gets the job done
+# Intervuer
+Elegant, clean, and data-driven resume template that gets the job done.

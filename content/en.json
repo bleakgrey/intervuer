@@ -1,0 +1,36 @@
+{
+
+	"title": "English",
+	"color": "#e53935",
+
+	"header": {
+		"title": "Harry Potter",
+		"subtitle": "Wizard / Frontend Developer",
+		"avatar": "https://www.fakepersongenerator.com/Face/male/male20161086441944061.jpg",
+		"about": "A code wizard. Subtly charming travel scholar, award-winning gamer, and troublemaker. Aspiring food evangelist, and professional twitter aficionado on Fridays."
+	},
+	
+	"sections": [
+		{
+			"title": "Experience",
+			"items": [
+				{
+					"title": "fdfd",
+					"subtitle": "Wizarding",
+					"date": "2010 - 2012"
+				}
+			]
+		},
+		{
+			"title": "Skills",
+			"tags": ["HTML", "CSS", "JS", "Vue", "Wingardium Leviosa"]
+		},
+		{
+			"title": "Education"
+		},
+		{
+			"title": "Contact"
+		}
+	]
+	
+}

@@ -1,0 +1,15 @@
+.avatar {
+	width: 80px;
+	height: 80px;
+	mask: url("hexagon.svg");
+	mask-size: contain;
+	display: inline-block;
+}
+
+img.primary {
+	background: var(--primary);
+}
+
+h6.primary {
+	color: var(--primary);
+}
